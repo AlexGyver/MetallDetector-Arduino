@@ -9,10 +9,10 @@
 - **schemes** - схемы к проекту
 
 ## Схема генератора
-![СХЕМА](https://github.com/AlexGyver/MoneyBox_counter/blob/master/scheme1.jpg)
+![СХЕМА](https://github.com/AlexGyver/MetallDetector-Arduino/blob/master/schemes/generator2.png)
 
 ## Схема блока электроники
-![СХЕМА](https://github.com/AlexGyver/MoneyBox_counter/blob/master/scheme1.jpg)
+![СХЕМА](https://github.com/AlexGyver/MetallDetector-Arduino/blob/master/schemes/scheme2.jpg)
 
 ##  Материалы и компоненты
 Если товар закончился, то почти всё указанное ниже можно найти здесь http://alexgyver.ru/arduino_shop/ или здесь http://alexgyver.ru/electronics/
@@ -24,11 +24,11 @@
 * Усилок http://ali.pub/1tste5
 * Динамик http://ali.pub/1tsu3f
 * Аудио гнездо http://ali.pub/1tsu9g
-* Тумблеры http://ali.pub/1tsug9
+* Тумблеры http://ali.pub/1tsug9  
 Рассыпуха:
 * Кондеры: 100n, 22n
 * Транзистор BC547
-* Резисторы: 
+* Резисторы:  
 1.2k - 1шт  
 10k - 2шт  
 * Кнопки можно найти тут https://www.chipdip.ru/catalog/switches-buttons
