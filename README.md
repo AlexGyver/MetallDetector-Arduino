@@ -16,7 +16,7 @@
 
 <a id="chapter-1"></a>
 ## Папки
-- **metal_detector** - прошивка для Arduino, файл в папке открыть в Arduino IDE (читай [FAQ](#chapter-5))
+- **metall_detector** - прошивка для Arduino, файл в папке открыть в Arduino IDE (читай [FAQ](#chapter-5))
 - **schemes** - схемы к проекту
 
 <a id="chapter-2"></a>
