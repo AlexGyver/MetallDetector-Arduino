@@ -1,20 +1,39 @@
 # Металлоискатель на Arduino
+* [Описание проекта](#chapter-0)
+* [Папки проекта](#chapter-1)
+* [Схемы подключения](#chapter-2)
+* [Материалы и компоненты](#chapter-3)
+* [Настройка и использование](#chapter-4)
+* [FAQ](#chapter-5)
+* [Полезная информация](#chapter-6)
+
+<a id="chapter-0"></a>
+## Описание проекта
 - Принцип работы: колебательный контур, частота которого зависит от индуктивности катушки. Arduino следит за изменениями частоты
 - Статический режим: по нажатию на кнопку запоминается текущая частота, пищит когда есть отклонение
 - Динамический режим: частота постоянно стремится к текущей, реагирует только на резкое появление металла
-Подробности в видео: 
+- Подробности в видео: https://youtu.be/ax87lBtabpQ
 
+<a id="chapter-1"></a>
 ## Папки
-- **metal_detector** - прошивка для Arduino, файл в папке открыть в Arduino IDE (читай FAQ)
+- **metal_detector** - прошивка для Arduino, файл в папке открыть в Arduino IDE (читай [FAQ](#chapter-5))
 - **schemes** - схемы к проекту
 
+<a id="chapter-2"></a>
 ## Схема генератора
 ![СХЕМА](https://github.com/AlexGyver/MetallDetector-Arduino/blob/master/schemes/generator2.png)
+
+## Макет генератора
+![СХЕМА](https://github.com/AlexGyver/MetallDetector-Arduino/blob/master/schemes/maket.jpg)
 
 ## Схема блока электроники
 ![СХЕМА](https://github.com/AlexGyver/MetallDetector-Arduino/blob/master/schemes/scheme2.jpg)
 
-##  Материалы и компоненты
+## Компоновка
+![СХЕМА](https://github.com/AlexGyver/MetallDetector-Arduino/blob/master/schemes/comp.jpg)
+
+<a id="chapter-3"></a>
+## Материалы и компоненты
 Если товар закончился, то почти всё указанное ниже можно найти здесь http://alexgyver.ru/arduino_shop/ или здесь http://alexgyver.ru/electronics/
 
 Блок электроники:
@@ -38,14 +57,15 @@
 * Кнопки можно найти тут https://www.chipdip.ru/catalog/switches-buttons
 
 ## Вам скорее всего пригодится
-* Всё для пайки (паяльники и примочки) http://alexgyver.ru/all-for-soldering/
-* Недорогие инструменты http://alexgyver.ru/my_instruments/
-* Все существующие модули и сенсоры Arduino http://alexgyver.ru/arduino_shop/
-* Электронные компоненты http://alexgyver.ru/electronics/
-* Аккумуляторы и зарядные модули http://alexgyver.ru/18650/
+* [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
+* [Недорогие инструменты](http://alexgyver.ru/my_instruments/)
+* [Все существующие модули и сенсоры Arduino](http://alexgyver.ru/arduino_shop/)
+* [Электронные компоненты](http://alexgyver.ru/electronics/)
+* [Аккумуляторы и зарядные модули](http://alexgyver.ru/18650/)
 
-## Как запустить и настроить
-* Загрузка прошивки http://alexgyver.ru/arduino-first/
+<a id="chapter-4"></a>
+## Настройка и использование
+* [Загрузка прошивки](http://alexgyver.ru/arduino-first/) - ультра подробная статья по началу работы с Ардуино
 
 ## Настройки в коде
     sound 1                // 0 - в стиле счётчика гейгера, 1 - пищалка верещалка
@@ -54,7 +74,8 @@
     SENSITIVITY = 1000.0;  // ручная установка чувствительности
 
 
-##  FAQ
+<a id="chapter-5"></a>
+## FAQ
 ### Основные вопросы
 В: Как скачать с этого грёбаного сайта?  
 О: На главной странице проекта (где ты читаешь этот текст) вверху справа зелёная кнопка **Clone or download**, вот её жми, там будет **Download ZIP**
@@ -75,3 +96,7 @@
 О: Ничего не продаю.
 
 ### Вопросы по этому проекту
+<a id="chapter-6"></a>
+## Полезная информация
+* [Мои видеоуроки по пайке](https://www.youtube.com/playlist?list=PLOT_HeyBraBuMIwfSYu7kCKXxQGsUKcqR)
+* [Мои видеоуроки по Arduino](http://alexgyver.ru/arduino_lessons/)
