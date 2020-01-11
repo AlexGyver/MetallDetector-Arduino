@@ -41,14 +41,27 @@
 Если товар закончился, то почти всё указанное ниже можно найти здесь http://alexgyver.ru/arduino_shop/ или здесь http://alexgyver.ru/electronics/
 
 Блок электроники:
-* Arduino NANO http://ali.pub/1tstau
-* Потенциометр http://ali.pub/1tstce
-* Колпачки http://ali.pub/1tsu5r
-* Усилок http://ali.pub/1tste5
-* Динамик http://ali.pub/1tsu3f
-* Аудио гнездо http://ali.pub/1tsu9g
-* Тумблеры http://ali.pub/1tsug9
-* Адаптер на Крону http://ali.pub/pwd9b  
+* Arduino NANO 328p – искать
+* https://ali.ski/tI7blh
+* https://ali.ski/O4yTxb
+* https://ali.ski/6_rFIS
+* https://ali.ski/gb92E-
+* Потенциометр 10к https://ali.ski/NP0F-V
+* Усилитель
+* https://ali.ski/lAGZr
+* https://ali.ski/IwNrn
+* Динамик https://ali.ski/r6757
+* Аудио гнездо https://ali.ski/RLsI0
+* Тумблеры https://ali.ski/bO_F0
+* Адаптер на Крону https://ali.ski/P5lgN
+* Рассыпуха:
+* Кондеры: 100n – 2шт
+* 22n – 2шт
+* Транзистор BC547
+* Резисторы:
+* 1.2k – 1шт
+* 10k – 2шт
+* Кнопки можно найти тут https://www.chipdip.ru/catalog/switches-buttons
 
 Рассыпуха:  
 * Кондеры: 
