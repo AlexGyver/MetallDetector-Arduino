@@ -42,18 +42,18 @@
 
 Блок электроники:
 * Arduino NANO 328p – искать
-* https://ali.ski/tI7blh
-* https://ali.ski/O4yTxb
-* https://ali.ski/6_rFIS
-* https://ali.ski/gb92E-
-* Потенциометр 10к https://ali.ski/NP0F-V
+* https://ali.ski/Xlrkkl
+* https://ali.ski/mbu6K
+* https://ali.ski/TkMuh
+* https://ali.ski/SGi6ZD
+* Потенциометр 10к https://ali.ski/Iny6Cm
 * Усилитель
-* https://ali.ski/lAGZr
-* https://ali.ski/IwNrn
-* Динамик https://ali.ski/r6757
-* Аудио гнездо https://ali.ski/RLsI0
-* Тумблеры https://ali.ski/bO_F0
-* Адаптер на Крону https://ali.ski/P5lgN
+* https://ali.ski/4vIcj-
+* https://ali.ski/5xO_UP
+* Динамик https://ali.ski/rEb7l
+* Аудио гнездо https://ali.ski/AsYper
+* Тумблеры https://ali.ski/PtJ6F
+* Адаптер на Крону https://ali.ski/cXhZXv
 * Рассыпуха:
 * Кондеры: 100n – 2шт
 * 22n – 2шт
