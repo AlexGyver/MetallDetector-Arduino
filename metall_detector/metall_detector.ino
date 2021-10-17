@@ -101,11 +101,11 @@ void loop() {
       PCW += FTW;
       if (PCW & 0x8000)
       {
-        digitalWrite(13, HIGH);
+        digitalWrite(soundPin, HIGH);
         PCW &= 0x7fff;
       }
       else
-        digitalWrite(13, LOW);
+        digitalWrite(soundPin, LOW);
     }
   } else {
     if (millis() > timer) {
@@ -114,7 +114,7 @@ void loop() {
       if (PCW & 0x8000)
       {
         PCW &= 0x7fff;
-        tone(soundPin, 3000, 30); // Play over pin D13 tone, pitch
+        tone(soundPin, 3000, 30); // Play over pin "soundPin" tone, pitch
         delay(20); // delay in between
         noTone(soundPin); // Stop tone
       }
